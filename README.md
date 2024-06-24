@@ -1,4 +1,4 @@
 # Olá Mundo!
- Aprendendo versionamento de Codigo Git GitHub
+ **Aprendendo versionamento de Codigo Git GitHub**
 
- Repositorio criado durante uma aula do Curso em video
+ Repositorio criado durante uma aula do *Curso em video*
